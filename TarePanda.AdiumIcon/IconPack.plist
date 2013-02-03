@@ -37,7 +37,8 @@
             <true/>
             <key>Images</key>
             <array>
-                <string>Alert.png</string>
+                <string>Alert1.png</string>
+                <string>Alert2.png</string>
             </array>
             <key>Delay</key>
             <real>0.5</real>
@@ -60,6 +61,9 @@
             <key>Images</key>
             <array>
                 <string>Connecting1.png</string>
+                <string>Connecting2.png</string>
+                <string>Connecting3.png</string>
+                <string>Connecting2.png</string>
             </array>
             <key>Delay</key>
             <real>0.5</real>
