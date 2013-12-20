@@ -2,7 +2,7 @@
 Adium dock icon set featuring Tarepanda
 
 ## How to install
-- Clone the repo to download by running `git clone git@github.com:songe/TarePanda-AdiumIcon.git`
+- Clone the repo to download by running `git clone https://github.com/songe/TarePanda-AdiumIcon.git`
 - Open TarePanda.AdiumIcon to install
 
 ## Icons
